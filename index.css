@@ -1,0 +1,10 @@
+html,
+body {
+  background-color: aliceblue;
+  margin: 0;
+  padding: 0;
+}
+html li,
+body li {
+  list-style: none;
+}

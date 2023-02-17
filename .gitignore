@@ -1,0 +1,5 @@
+# 忽略/text文件
+text/
+
+# 忽略 less文件
+*.less
